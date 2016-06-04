@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        System.out.println( "Coucou" );
-        System.out.println( "Super" );
+        System.out.println( "Coucou Monsieur" );
+        System.out.println( "Super Monsieur" );
     }
 }
