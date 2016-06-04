@@ -11,6 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Coucou Monsieur" );
         System.out.println( "Super Monsieur" );
-        System.out.println("Au revoir Madame");
+        System.out.println("Au revoir Mesdames");
     }
 }
